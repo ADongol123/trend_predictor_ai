@@ -1,0 +1,1 @@
+# trend_predictor_ai
